@@ -8,7 +8,6 @@
 
 <br/>
 <p>Hey there, i'm Igor, just a simple programmer, visit my pages and look at my drawings and some codes, i hope you like it...<p>
-<br/>
 <p align="left">Remember:
 > Keep on learning!!<p>
 <p align="right">Look at one of my simple artwork!!</p>
@@ -17,7 +16,6 @@
 <br/>
 <br/>
 <p align= "left">**Languages and Tools:**</p>
-<br/>
 <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
