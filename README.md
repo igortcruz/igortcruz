@@ -1,15 +1,15 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/igortcruz/">
+  <img align="left" alt="igortcruz's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=igortcruz.igortcruz)
+
 <br/>
-Hey there, i'm [Igor Torres Cruz](https://instagram.com_igortcruz/), just a simple programmer, visit my pages and look at my drawings and some codes, i hope you like it...
+Hey there, i'm Igor, just a simple programmer, visit my pages and look at my drawings and some codes, i hope you like it...
 <br/>
+Remember:
 >Keep on learning!!
 <p align="right">Look at one of my simple artwork!!</p>
 <img align="right" alt="GIF" src="https://instagram.fbel10-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/150456286_269869691195785_4861635529727994798_n.jpg?tp=1&_nc_ht=instagram.fbel10-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=wQnZTspjh7MAX86Jy5i&oh=9725a3c72198df05315e783d444fe632&oe=60762C10" width="320" height="400" />
