@@ -4,7 +4,7 @@
   <img align="left" alt="igortcruz's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_igortcruz/">
-  <img align="left" alt="igortcruz's Instagram's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+  <img align="left" alt="igortcruz's Instagram's" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=igortcruz.igortcruz)
