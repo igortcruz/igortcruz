@@ -10,10 +10,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=igortcruz.igortcruz)
 
 <br/>
-<p>Hey there, i'm Igor, just a simple programmer, visit my pages and </br> look at my drawings and some codes, i hope you like it...<p>
+<p>Hey there, i'm Igor, just a simple programmer, visit my pages and </br> look at my drawings and some codes, i hope you like it...<p><p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=igortcruz&show_icons=true&theme=gotham" alt="igortcruz" />
 <a align="left">Remember:
 > Keep on learning!!<a>
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=igortcruz&show_icons=true&theme=gotham" alt="igortcruz" />
+
 <br/>
 <br/>
 <a align= "left">**Languages and Tools:**</a>
