@@ -18,7 +18,7 @@ Contact:
   ```sh
   https://www.linkedin.com/in/igortcruz/
   ```
-* Email <img align="left" alt="igortcruz's Gmail" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+* Email
   ```sh
   igortorres213@gmail.com
   ```
