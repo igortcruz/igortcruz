@@ -14,7 +14,7 @@
 
 
 Contact:
-* Linkedin <img align="left" alt="igortcruz's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+* Linkedin
   ```sh
   https://www.linkedin.com/in/igortcruz/
   ```
@@ -22,7 +22,7 @@ Contact:
   ```sh
   igortorres213@gmail.com
   ```
-  * Instagram <img align="left" alt="igortcruz's Instagram's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+  * Instagram
   ```sh
   https://www.instagram.com/igortcruz_/
   ```
