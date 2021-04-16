@@ -17,10 +17,10 @@
 
 <p align="center">
   
-  <h3 align="center">It's me Igor</h3>
+  <h3 align="center">It's me, Igor</h3>
 
   <p align="center">
-    Hey there, i'm Igor, just a simple programmer, visit my pages and </br> look at my drawings and some codes, i hope you like it...
+    Hey there, i'm just a simple programmer, visit my pages and </br> look at my drawings and some codes, i hope you like it...
   </p>
 </p>
 
