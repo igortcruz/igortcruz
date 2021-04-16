@@ -22,7 +22,7 @@ Contact:
   ```sh
   igortorres213@gmail.com
   ```
-  * Instagram <img align="left" alt="igortcruz's Instagram's" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />
+  * Instagram <img align="left" alt="igortcruz's Instagram's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
   ```sh
-  igortorres213@gmail.com
+  https://www.instagram.com/igortcruz_/
   ```
