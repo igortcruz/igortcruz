@@ -10,7 +10,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=igortcruz.igortcruz)
 
 <br/>
-<a>Hey there, i'm Igor, just a simple programmer, visit my </br>pages and look at my drawings and some codes, i hope you like it...<a>
+<a>Hey there, i'm Igor, just a simple programmer, visit my pages and look at </br> my drawings and some codes, i hope you like it...<a>
 <a align="left">Remember:
 > Keep on learning!!<a>
 <br/>
