@@ -22,7 +22,7 @@ Contact:
   ```sh
   igortorres213@gmail.com
   ```
-  * Instagram
+* Instagram
   ```sh
   https://www.instagram.com/igortcruz_/
   ```
