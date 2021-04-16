@@ -10,9 +10,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=igortcruz.igortcruz)
 
 <br/>
-<p>Hey there, i'm Igor, just a simple programmer, visit my pages and look at </br> my drawings and some codes, i hope you like it...<p>
+<p>Hey there, i'm Igor, just a simple programmer, visit my pages and </br> look at my drawings and some codes, i hope you like it...<p>
 <a align="left">Remember:
 > Keep on learning!!<a>
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=igortcruz&show_icons=true&theme=gotham" alt="igortcruz" />
 <br/>
 <br/>
 <a align= "left">**Languages and Tools:**</a>
@@ -23,4 +24,3 @@
 <code align="left"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code align="left"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code align="left"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=igortcruz&show_icons=true&theme=gotham" alt="igortcruz" />
