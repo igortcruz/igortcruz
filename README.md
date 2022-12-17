@@ -5,7 +5,7 @@
   <a href="mailto:igortorres213@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/igortcruz_/">
+  <a href="https://www.instagram.com/igortcruz/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/igortcruz/">
